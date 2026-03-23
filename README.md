@@ -14,9 +14,10 @@ I've been learning to be senior full stack developer
                   </p>
                   
 
-              Socials
-                
-                <p align="left"> <a href="https://www.github.com/Urtopia" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/Thanabutpatt" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a></p>
+             ### Socials
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/Urtopia)
+[![X](https://img.shields.io/badge/X-000?logo=twitter)](https://x.com/Thanabutpatt)
 <a href="https://www.github.com/Urtopia" target="_blank" rel="noreferrer"><img
                 src="https://img.shields.io/github/followers/Urtopia?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/Thanabutpatt" target="_blank" rel="noreferrer"><img
                 src="https://img.shields.io/twitter/follow/Thanabutpatt?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
